@@ -1,10 +1,15 @@
 # PATH - ユーザが対象をみるふるまいに応じて異なる映像を呈示するシステム  
 顔・両眼位置、距離、明度などに応じ、撮影位置・撮影速度の異なる映像を提示できます  
 
+---
+
 ### PATH - Interactive System for Displaying Different Videos Depending on User's Behavior to See Objects  
 Display Videos Recorded at Different Positions or Speeds Depending on Position of User's Face and Eyes, Distance, Brightness and so on.  
 
 Currently Japanese Only  
+ 
+---
+ 
 システム概要およびこれをもとに制作された"PATH01"について、下記テキストに記載されています  
 
 	第 15 回日本バーチャルリアリティ学会大会論文集(2010 年)-ユーザの顔・両眼位置に応じ撮影位置・ 度の異なる 映像を呈示するシステム
